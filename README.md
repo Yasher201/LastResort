@@ -1,11 +1,13 @@
 # LastResort
 ## A Password Management and Vault Application
 
-LastResort is a simple password management application focusing on storing passwords and information in a centralized program. The name "Last Resort" comes from a popular password management application - LastPass. LastResort was meant to be a school prototype version which can be used as a password management application as a Last Resort... *This is NOT meant to be focused on security or UI/UX friendliness but rather FUNCTIONALITY*
+LastResort is a simple password management application focusing on storing passwords and information in a centralized program. The name "Last Resort" comes from a popular password management application - LastPass. LastResort was meant to be a school prototype version which can be used as a password management application as a Last Resort... 
+
+*This is NOT meant to be focused on security or UI/UX friendliness but rather FUNCTIONALITY*
 
 ## Features
 
-- Create a Master Key upong signing in
+- Create a Master Key upon signing in
 - Store usernames and passwords for various accounts
 - Hashes passwords and stores it in an SQL database
 - Delete old usernames and passwords that are no longer needed
